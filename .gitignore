@@ -1,2 +1,6 @@
 circuits/build/
 circuits/ceremony/
+
+watcher/target/
+watcher/wallet.db
+watcher/.env
