@@ -4,3 +4,12 @@ circuits/ceremony/
 watcher/target/
 watcher/wallet.db
 watcher/.env
+
+cofhe-hardhat-starter/node_modules
+cofhe-hardhat-starter/.env
+cofhe-hardhat-starter/cache
+cofhe-hardhat-starter/artifacts
+cofhe-hardhat-starter/deployments
+cofhe-hardhat-starter/typechain
+cofhe-hardhat-starter/typechain-types
+cofhe-hardhat-starter/types
